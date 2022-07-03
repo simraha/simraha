@@ -2,7 +2,7 @@
 
 <p>📚 Computer Science student at Wilfrid Laurier University</p>
 <p>🌱 Currently learning React and Ajax</p>
-<p>🔭 Current Web Developer at Akhny Solutions Inc</p>
+<p>🔭 Current Developer at Akhny Solutions Inc</p>
 <p>⚡ Interested in UX/UI design</p>
 
 <h3>Conect with me!</h3>
