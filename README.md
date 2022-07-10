@@ -5,7 +5,7 @@
 <p>🔭 Current Developer at Akhny Solutions Inc</p>
 <p>⚡ Interested in UX/UI design</p>
 
-<h3>Conect with me!</h3>
+<h3>Connect with me!</h3>
 <a href="https://www.linkedin.com/in/simrah-azfar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@simrahazfar-pink?style=flat&logo=linkedin"></a>
 <a href="mailto:azfa1450@mylaurier.ca"><img alt="Email" src="https://img.shields.io/badge/Email-azfa1450@mylaurier.ca-pink?style=flat&logo=gmail"></a>
 
