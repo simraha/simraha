@@ -1,9 +1,9 @@
 ### Hi there, I'm Simrah 👋
 
 <p>📚 Computer Science student at Wilfrid Laurier University</p>
-<p>🌱 Currently learning React and Ajax</p>
+<p>🌱 Currently learning Angular</p>
 <p>🔭 Current Developer at Akhny Solutions Inc</p>
-<p>⚡ Interested in UX/UI design</p>
+<p>⚡ Interested in Front-end Development</p>
 
 <h3>Connect with me!</h3>
 <a href="https://www.linkedin.com/in/simrah-azfar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@simrahazfar-pink?style=flat&logo=linkedin"></a>
