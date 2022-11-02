@@ -2,7 +2,6 @@
 
 <p>📚 Computer Science student at Wilfrid Laurier University</p>
 <p>🌱 Currently learning Angular</p>
-<p>🔭 Current Developer at Akhny Solutions Inc</p>
 <p>⚡ Interested in Front-end Development</p>
 
 <h3>Connect with me!</h3>
