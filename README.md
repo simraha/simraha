@@ -1,8 +1,8 @@
 ### Hi there, I'm Simrah 👋
 
 <p>📚 Computer Science student at Wilfrid Laurier University</p>
-<p>🌱 Currently learning Tableau and Pandas</p>
-<p>⚡ Interested in Big Data</p>
+<p>🌱 Currently learning various data visualization tools</p>
+<p>⚡ Interested in Data Science</p>
 
 <h3>Connect with me!</h3>
 <a href="https://www.linkedin.com/in/simrah-azfar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@simrahazfar-pink?style=flat&logo=linkedin"></a>
