@@ -2,7 +2,7 @@
 
 <p>📚 Computer Science student at Wilfrid Laurier University</p>
 <p>🌱 Currently working at Hydro One as a Data and Technology analyst</p>
-<p>⚡ Interested in Data Science</p>
+<p>⚡ Interested in Data Science and Cloud Computing</p>
 
 <h3>Connect with me!</h3>
 <a href="https://www.linkedin.com/in/simrah-azfar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@simrahazfar-pink?style=flat&logo=linkedin"></a>
