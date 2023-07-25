@@ -1,7 +1,7 @@
 ### Hi there, I'm Simrah 👋
 
 <p>📚 Computer Science student at Wilfrid Laurier University</p>
-<p>🌱 Currently working at Hydro One as a Data and Technology analyst</p>
+<p>🌱 Currently working at Hydro One as a Data and Technology Analyst</p>
 <p>⚡ Interested in Data Science and Cloud Computing</p>
 
 <h3>Connect with me!</h3>
